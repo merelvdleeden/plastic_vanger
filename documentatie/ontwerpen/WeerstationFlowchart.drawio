@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Page-1" id="tCGYiwIkgDd7URTjGy9D">
     <mxGraphModel dx="1213" dy="1792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,29 +10,26 @@
         <mxCell id="oQbUfSO9ChGeYcWX9ETy-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="289" y="-10" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oQbUfSO9ChGeYcWX9ETy-3" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="175" y="1610" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="LDddTqhyxIszKjFdlD2L-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oQbUfSO9ChGeYcWX9ETy-5" target="LDddTqhyxIszKjFdlD2L-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oQbUfSO9ChGeYcWX9ETy-5" value="Windrichting meten" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="460" y="210" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oQbUfSO9ChGeYcWX9ETy-8" target="oQbUfSO9ChGeYcWX9ETy-5">
+        <mxCell id="rpINiU_03pBX49EWidBe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="oQbUfSO9ChGeYcWX9ETy-8" target="oQbUfSO9ChGeYcWX9ETy-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-6" value="Nee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rpINiU_03pBX49EWidBe-5">
+        <mxCell id="rpINiU_03pBX49EWidBe-6" value="Nee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rpINiU_03pBX49EWidBe-5" vertex="1" connectable="0">
           <mxGeometry x="-0.3926" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oQbUfSO9ChGeYcWX9ETy-8">
+        <mxCell id="rpINiU_03pBX49EWidBe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oQbUfSO9ChGeYcWX9ETy-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-8" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rpINiU_03pBX49EWidBe-7">
+        <mxCell id="rpINiU_03pBX49EWidBe-8" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rpINiU_03pBX49EWidBe-7" vertex="1" connectable="0">
           <mxGeometry x="-0.1667" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -56,13 +53,20 @@
         <mxCell id="oQbUfSO9ChGeYcWX9ETy-54" value="Eind de motorsnelheid data transmission" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="160" y="1500" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="oQbUfSO9ChGeYcWX9ETy-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="oQbUfSO9ChGeYcWX9ETy-54" target="oQbUfSO9ChGeYcWX9ETy-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="oQbUfSO9ChGeYcWX9ETy-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oQbUfSO9ChGeYcWX9ETy-54" target="oQbUfSO9ChGeYcWX9ETy-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="1535" />
+              <mxPoint x="840" y="100" />
+              <mxPoint x="525" y="100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="oQbUfSO9ChGeYcWX9ETy-58" value="Write data naar de motor" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="150" y="1390" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LDddTqhyxIszKjFdlD2L-1" target="LDddTqhyxIszKjFdlD2L-7">
+        <mxCell id="rpINiU_03pBX49EWidBe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LDddTqhyxIszKjFdlD2L-1" target="LDddTqhyxIszKjFdlD2L-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LDddTqhyxIszKjFdlD2L-1" value="Libraries installeren" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
@@ -80,79 +84,79 @@
         <mxCell id="LDddTqhyxIszKjFdlD2L-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LDddTqhyxIszKjFdlD2L-5" target="oQbUfSO9ChGeYcWX9ETy-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rpINiU_03pBX49EWidBe-10" target="rpINiU_03pBX49EWidBe-23">
+        <mxCell id="rpINiU_03pBX49EWidBe-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rpINiU_03pBX49EWidBe-10" target="rpINiU_03pBX49EWidBe-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-25" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rpINiU_03pBX49EWidBe-24">
+        <mxCell id="rpINiU_03pBX49EWidBe-25" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rpINiU_03pBX49EWidBe-24" vertex="1" connectable="0">
           <mxGeometry x="0.0356" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-10" value="Is de windsnelheid 0-10m/s?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="rpINiU_03pBX49EWidBe-10" value="Is de windsnelheid 0-10m/s?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="650" y="700" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-11" value="Windsnelheid meten" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="rpINiU_03pBX49EWidBe-11" value="Windsnelheid meten" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="636" y="490" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-12" value="Windsnelheid m/s" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="rpINiU_03pBX49EWidBe-12" value="Windsnelheid m/s" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="625" y="600" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.562;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.562;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="rpINiU_03pBX49EWidBe-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.562;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.562;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700.76" y="560" as="sourcePoint" />
             <mxPoint x="701" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rpINiU_03pBX49EWidBe-12" target="rpINiU_03pBX49EWidBe-10">
+        <mxCell id="rpINiU_03pBX49EWidBe-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="rpINiU_03pBX49EWidBe-12" target="rpINiU_03pBX49EWidBe-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="rpINiU_03pBX49EWidBe-15" target="rpINiU_03pBX49EWidBe-32">
+        <mxCell id="rpINiU_03pBX49EWidBe-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="rpINiU_03pBX49EWidBe-15" target="rpINiU_03pBX49EWidBe-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-34" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rpINiU_03pBX49EWidBe-33">
+        <mxCell id="rpINiU_03pBX49EWidBe-34" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rpINiU_03pBX49EWidBe-33" vertex="1" connectable="0">
           <mxGeometry x="-0.2075" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-15" value="Is de windsnelheid 10-15m/s?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="rpINiU_03pBX49EWidBe-15" value="Is de windsnelheid 10-15m/s?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="650" y="840" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rpINiU_03pBX49EWidBe-10" target="rpINiU_03pBX49EWidBe-15">
+        <mxCell id="rpINiU_03pBX49EWidBe-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="rpINiU_03pBX49EWidBe-10" target="rpINiU_03pBX49EWidBe-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-27" value="Nee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rpINiU_03pBX49EWidBe-16">
+        <mxCell id="rpINiU_03pBX49EWidBe-27" value="Nee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rpINiU_03pBX49EWidBe-16" vertex="1" connectable="0">
           <mxGeometry x="-0.2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rpINiU_03pBX49EWidBe-17" target="rpINiU_03pBX49EWidBe-35">
+        <mxCell id="rpINiU_03pBX49EWidBe-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rpINiU_03pBX49EWidBe-17" target="rpINiU_03pBX49EWidBe-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-37" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rpINiU_03pBX49EWidBe-36">
+        <mxCell id="rpINiU_03pBX49EWidBe-37" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rpINiU_03pBX49EWidBe-36" vertex="1" connectable="0">
           <mxGeometry x="-0.0852" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-17" value="Is de windsnelheid 15-20m/s?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="rpINiU_03pBX49EWidBe-17" value="Is de windsnelheid 15-20m/s?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="650" y="990" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rpINiU_03pBX49EWidBe-15" target="rpINiU_03pBX49EWidBe-17">
+        <mxCell id="rpINiU_03pBX49EWidBe-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="rpINiU_03pBX49EWidBe-15" target="rpINiU_03pBX49EWidBe-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-29" value="Nee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rpINiU_03pBX49EWidBe-18">
+        <mxCell id="rpINiU_03pBX49EWidBe-29" value="Nee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rpINiU_03pBX49EWidBe-18" vertex="1" connectable="0">
           <mxGeometry x="-0.1" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rpINiU_03pBX49EWidBe-19" target="rpINiU_03pBX49EWidBe-38">
+        <mxCell id="rpINiU_03pBX49EWidBe-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rpINiU_03pBX49EWidBe-19" target="rpINiU_03pBX49EWidBe-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-40" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rpINiU_03pBX49EWidBe-39">
+        <mxCell id="rpINiU_03pBX49EWidBe-40" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rpINiU_03pBX49EWidBe-39" vertex="1" connectable="0">
           <mxGeometry x="-0.0593" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rpINiU_03pBX49EWidBe-19" target="rpINiU_03pBX49EWidBe-41">
+        <mxCell id="rpINiU_03pBX49EWidBe-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="rpINiU_03pBX49EWidBe-19" target="rpINiU_03pBX49EWidBe-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="1320" as="targetPoint" />
             <Array as="points">
@@ -160,58 +164,58 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-43" value="Nee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rpINiU_03pBX49EWidBe-42">
+        <mxCell id="rpINiU_03pBX49EWidBe-43" value="Nee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rpINiU_03pBX49EWidBe-42" vertex="1" connectable="0">
           <mxGeometry x="-0.7035" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-19" value="Is de windsnelheid 20-25m/s?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="rpINiU_03pBX49EWidBe-19" value="Is de windsnelheid 20-25m/s?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="650" y="1140" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rpINiU_03pBX49EWidBe-17" target="rpINiU_03pBX49EWidBe-19">
+        <mxCell id="rpINiU_03pBX49EWidBe-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="rpINiU_03pBX49EWidBe-17" target="rpINiU_03pBX49EWidBe-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-31" value="Nee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rpINiU_03pBX49EWidBe-20">
+        <mxCell id="rpINiU_03pBX49EWidBe-31" value="Nee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rpINiU_03pBX49EWidBe-20" vertex="1" connectable="0">
           <mxGeometry x="-0.16" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rpINiU_03pBX49EWidBe-23">
+        <mxCell id="rpINiU_03pBX49EWidBe-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rpINiU_03pBX49EWidBe-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="1310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-23" value="Data voor motor snelheid van 2000RPM" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="rpINiU_03pBX49EWidBe-23" value="Data voor motor snelheid van 2000RPM" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="440" y="720" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rpINiU_03pBX49EWidBe-32">
+        <mxCell id="rpINiU_03pBX49EWidBe-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rpINiU_03pBX49EWidBe-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-32" value="Data voor motor snelheid van 2350RPM" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="rpINiU_03pBX49EWidBe-32" value="Data voor motor snelheid van 2350RPM" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="440" y="850" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rpINiU_03pBX49EWidBe-35">
+        <mxCell id="rpINiU_03pBX49EWidBe-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rpINiU_03pBX49EWidBe-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-35" value="Data voor motor snelheid van 2650RPM" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="rpINiU_03pBX49EWidBe-35" value="Data voor motor snelheid van 2650RPM" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="440" y="1010" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rpINiU_03pBX49EWidBe-38">
+        <mxCell id="rpINiU_03pBX49EWidBe-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rpINiU_03pBX49EWidBe-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-38" value="Data voor motor snelheid van 3300RPM" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="rpINiU_03pBX49EWidBe-38" value="Data voor motor snelheid van 3300RPM" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="440" y="1160" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rpINiU_03pBX49EWidBe-41" target="oQbUfSO9ChGeYcWX9ETy-51">
+        <mxCell id="rpINiU_03pBX49EWidBe-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rpINiU_03pBX49EWidBe-41" target="oQbUfSO9ChGeYcWX9ETy-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rpINiU_03pBX49EWidBe-41" value="Data voor motor snelheid van 4100RPM" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="rpINiU_03pBX49EWidBe-41" value="Data voor motor snelheid van 4100RPM" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="440" y="1280" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
