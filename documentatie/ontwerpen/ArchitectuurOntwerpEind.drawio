@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.1">
   <diagram name="Page-1" id="_f6243z5xDPHoJYxnf5J">
-    <mxGraphModel dx="2175" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2040" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,7 +100,7 @@
             <mxPoint x="570" y="20.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rgFmtQUSivmgmPglmrBW-22" value="Enegrievoorziening" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="rgFmtQUSivmgmPglmrBW-22" value="Energievoorziening" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-120" y="30" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rgFmtQUSivmgmPglmrBW-23" value="Motor&lt;div&gt;Torqeedo Cruise 6.0R&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -207,15 +207,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cz1y2A4_Csy2vtqtXTmB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cz1y2A4_Csy2vtqtXTmB-3" target="rgFmtQUSivmgmPglmrBW-12">
+        <mxCell id="Cz1y2A4_Csy2vtqtXTmB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Cz1y2A4_Csy2vtqtXTmB-3" target="rgFmtQUSivmgmPglmrBW-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Cz1y2A4_Csy2vtqtXTmB-5" value="Energie" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Cz1y2A4_Csy2vtqtXTmB-4">
+        <mxCell id="Cz1y2A4_Csy2vtqtXTmB-5" value="Energie" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Cz1y2A4_Csy2vtqtXTmB-4" vertex="1" connectable="0">
           <mxGeometry x="-0.1036" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cz1y2A4_Csy2vtqtXTmB-3" value="Zonnepanelen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Cz1y2A4_Csy2vtqtXTmB-3" value="Zonnepanelen" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-36" y="70" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
