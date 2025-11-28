@@ -100,7 +100,7 @@
             <mxPoint x="570" y="20.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rgFmtQUSivmgmPglmrBW-22" value="Energievoorziening" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="rgFmtQUSivmgmPglmrBW-22" value="Energ&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ievoorziening&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-120" y="30" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rgFmtQUSivmgmPglmrBW-23" value="Motor&lt;div&gt;Torqeedo Cruise 6.0R&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -146,6 +146,16 @@
             <mxPoint x="-230" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_zMxRop65-h1281fmB1l-1" value="Raw data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rgFmtQUSivmgmPglmrBW-58">
+          <mxGeometry x="-0.4469" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_zMxRop65-h1281fmB1l-4" value="ADC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rgFmtQUSivmgmPglmrBW-58">
+          <mxGeometry x="0.6329" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rgFmtQUSivmgmPglmrBW-43" value="Windsnelheid" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-536" y="410" width="140" height="80" as="geometry" />
         </mxCell>
@@ -173,6 +183,16 @@
         <mxCell id="rgFmtQUSivmgmPglmrBW-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rgFmtQUSivmgmPglmrBW-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-230" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_zMxRop65-h1281fmB1l-3" value="Raw data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rgFmtQUSivmgmPglmrBW-57">
+          <mxGeometry x="-0.5155" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_zMxRop65-h1281fmB1l-6" value="Modbus&lt;div&gt;converter&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rgFmtQUSivmgmPglmrBW-57">
+          <mxGeometry x="0.6763" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rgFmtQUSivmgmPglmrBW-50" value="Windrichring" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
